@@ -10,3 +10,4 @@ This repository will be used to save my personal Emacs Doom configuration
 - Org-Mode
 - Neotree
 - helm-projectile
+- Origami
