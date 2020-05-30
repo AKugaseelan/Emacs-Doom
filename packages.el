@@ -51,3 +51,4 @@
 (package! lsp-java)
 (package! dap-mode)
 (package! origami)
+(package! powershell)
